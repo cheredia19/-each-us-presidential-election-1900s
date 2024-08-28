@@ -1,5 +1,5 @@
 ---
-title: Each US presidential election (2000-2020)
+title: Each US presidential election (1900-1996)
 description: 
 ---
 
