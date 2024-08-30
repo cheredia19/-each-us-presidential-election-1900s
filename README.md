@@ -195,6 +195,14 @@ description:
 
 ## 1976
 
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1976_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
