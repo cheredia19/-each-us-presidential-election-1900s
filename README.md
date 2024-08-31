@@ -208,6 +208,7 @@ description:
     url: '1972_elec_pop.csv'
   }}
  />
+**John Hospers (Libertarian) received one electoral vote from a faithless elector in Virginia*
 
 ## 1976
 
