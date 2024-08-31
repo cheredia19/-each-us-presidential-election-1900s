@@ -135,6 +135,14 @@ description:
 
 ## 1952
 
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1952_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
