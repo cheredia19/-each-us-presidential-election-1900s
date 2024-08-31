@@ -169,6 +169,12 @@ description:
 
 <FlatUiTable
   data={{
+    url: '1964_pop_vote.csv'
+  }}
+ />
+
+<FlatUiTable
+  data={{
     url: '1964_elec_pop.csv'
   }}
  />
