@@ -160,7 +160,8 @@ description:
     url: '1956_elec_pop.csv'
   }}
  />
-
+ **One elector from Alabama voted for Walter Jones (D)*
+ 
 ## 1960
 
 ### Popular votes by candidate
