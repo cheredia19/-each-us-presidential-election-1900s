@@ -105,6 +105,14 @@ description:
 
 ## 1940
 
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1940_pop_vote.csv'
+  }}
+ />
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
