@@ -175,13 +175,15 @@ description:
  
 ## 1968
 
-### Popular and electoral votes by candidate and state
+### Popular votes by candidate
 
 <FlatUiTable
   data={{
     url: '1968_pop_vote.csv'
   }}
  />
+
+ ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
   data={{
