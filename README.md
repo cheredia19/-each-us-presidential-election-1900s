@@ -5,8 +5,6 @@ description:
 
 ## 1900
 
-### Popular and electoral votes by candidate and state
-
 ### Popular votes by candidate
 
 <FlatUiTable
@@ -14,6 +12,8 @@ description:
     url: '1900_pop_vote.csv'
   }}
  />
+
+### Popular and electoral votes by candidate and state
 
 <FlatUiTable
   data={{
