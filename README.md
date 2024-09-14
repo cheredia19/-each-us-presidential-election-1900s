@@ -368,6 +368,12 @@ description:
 
 ## 1980 | Ronald Reagan (R) v. Jimmy Carter (D)
 
+The domestic policies implemented by President **Jimmy Carter** failed to resonate with the American public. Also, his image as an international leader was damaged by the [Iranian hostage crisis](https://history.state.gov/departmenthistory/short-history/iraniancrises) that began on November 4, 1979, and lasted 444 days.
+
+Nevertheless, the Democrats were not inclined to switch allegiance from an incumbent, so Carter had no difficulty securing his party nomination. On the Republican side, **Ronald Reagan** was successful in the primaries, securing the GOP nomination.
+
+When the campaign began, Carter held a lead over Reagan. However, the GOP candidate changed the voters' perception to the point that claimed a comfortable victory, initiating **twelve years of Republican control of the White House** until Bill Clinton took office in 1992. The 1980 election marked the beginning of what is popularly called the [*Reagan Revolution*](https://pressbooks-dev.oer.hawaii.edu/ushistory/chapter/the-reagan-revolution/).
+
 ### Popular votes by candidate
 
 <FlatUiTable
