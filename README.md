@@ -442,7 +442,13 @@ description:
 
 ## 1996 | Bill Clinton (D) v. Bob Dole (R)
 
+In the election of 1996, the Democrats were backed by a good economy and stable international affairs, as well as the momentum of an incumbency in the White House. The Republicans tried to provide a solid reason for the electorate to change but were unsuccessful. 
 
+There was no significant opposition to the renomination of President **Bill  Clinton** and Vice President Al Gore by the 1996 Democratic convention delegates, who met in Chicago between August 26-29.  
+
+On the GOP side, Senator **Bob Dole** of Kansas benefited from a strong early performance in the primaries. 
+
+On election day, November 5, Clinton and Gore comfortably won the popular and electoral college contests. The latter was not much different from 1992.
 
 ### Popular votes by candidate
 
