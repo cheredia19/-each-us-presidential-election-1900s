@@ -386,6 +386,14 @@ description:
 
 ## 1984 | Ronald Reagan (R) v. Walter F. Mondale (D)
 
+The 1984 United States presidential election was a contest between the incumbent President, **Ronald Reagan**, and Democratic former Vice President **Walter Mondale**. 
+
+The GOP nominee was helped by some policies: a strong recovery from the [recession of 1981–82](https://www.federalreservehistory.org/essays/recession-of-1981-82), his increase in defense spending, and aggressive anti-communism stances. At the same time, his advocacy of tax cuts was well-received even though federal deficits had risen, contrary to some of the predominant economic premises.
+
+Reagan carried 49 of the 50 states, becoming **the second presidential candidate to achieve the feat** after Richard Nixon's victory in 1972. Mondale's only electoral votes came from the District of Columbia, which has always been considered a Democratic guarantee, and his home state of Minnesota, which he won by a mere 3761 votes.
+
+Reagan's 525 electoral votes (out of 538) are **the highest total ever received by a presidential candidate**, while Mondale's 13 electoral votes is also the 2nd-fewest ever received by a second-place candidate, second only to Alf Landon's 8 in 1936. In the national popular vote, Reagan received 58.8% to Mondale's 40.6%.
+
 ### Popular votes by candidate
 
 <FlatUiTable
