@@ -402,8 +402,7 @@ description:
   }}
  />
 
-
-## 1988
+## 1988 | George Bush (R) v. Michael S. Dukakis (D)
 
 ### Popular votes by candidate
 
@@ -424,7 +423,11 @@ description:
 
 ## 1992 | Bill Clinton (D) v. George Bush (R)
 
+The United States presidential election of 1992 marked the effort by the Republican Party to extend their 12-year hold on the White House, while the Democrats, led by **Bill Clinton**, aimed to bring their image more towards the center. An independent push by billionaire H. Ross Perot of Texas tried to focus the debate on the national debt.
 
+Incumbent **George Bush** alienated much of his conservative base by breaking his 1988 campaign pledge against raising taxes. His perceived greatest strength, foreign policy, was less influential following the [collapse of the Soviet Union](https://history.state.gov/milestones/1989-1992/collapse-soviet-union) and the relatively peaceful climate in the Middle East after the defeat of Iraq in the [Gulf War](https://history.state.gov/milestones/1989-1992/gulf-war).
+
+On the election day, Clinton easily outdistanced Bush in the Electoral College. Perot managed 18.9% of the popular balloting but earned no electoral votes.
 
 ### Popular votes by candidate
 
