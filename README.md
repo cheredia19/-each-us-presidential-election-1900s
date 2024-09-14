@@ -404,6 +404,12 @@ description:
 
 ## 1988 | George Bush (R) v. Michael S. Dukakis (D)
 
+Ronald Reagan, the incumbent President, was vacating the position after serving the maximum two terms allowed by the [Twenty-second Amendment](https://constitution.congress.gov/constitution/amendment-22/). Consequently, the 1988 United States presidential election featured Reagan's Vice President, **George H. W. Bush** and Democratic nominee **Michael S. Dukakis**.
+
+A good economy, a stable international stage (the U.S. was not involved in any wars or conflicts during this time), and Reagan's popularity allowed the Republican ticket to claim an easy victory. Dukakis carried only ten states (and the District of Columbia) but still had a positive result for the Democratic party compared with the outcome four years earlier. 
+
+Bush became the first incumbent Vice President of the United States to win a presidential election in 152 years since Martin Van Buren in 1836. Just like Van Buren in 1840, Bush would be defeated for reelection in 1992 after serving a single term.
+
 ### Popular votes by candidate
 
 <FlatUiTable
