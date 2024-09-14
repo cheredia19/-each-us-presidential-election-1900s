@@ -384,7 +384,7 @@ description:
   }}
  />
 
-## 1984
+## 1984 | Ronald Reagan (R) v. Walter F. Mondale (D)
 
 ### Popular votes by candidate
 
