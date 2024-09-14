@@ -422,7 +422,9 @@ description:
  />
 **Lloyd Bentsen (Democratic) received one electoral vote from a faithless elector in West Virginia*
 
-## 1992
+## 1992 | Bill Clinton (D) v. George Bush (R)
+
+
 
 ### Popular votes by candidate
 
