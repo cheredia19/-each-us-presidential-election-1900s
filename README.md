@@ -440,7 +440,9 @@ description:
   }}
  />
 
-## 1996
+## 1996 | Bill Clinton (D) v. Bob Dole (R)
+
+
 
 ### Popular votes by candidate
 
