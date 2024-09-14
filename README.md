@@ -420,6 +420,7 @@ description:
     url: '1988_elec_pop.csv'
   }}
  />
+**Lloyd Bentsen (Democratic) received one electoral vote from a faithless elector in West Virginia*
 
 ## 1992
 
