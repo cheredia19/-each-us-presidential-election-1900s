@@ -297,7 +297,7 @@ description:
 
 The United States presidential election of 1964 was the sixth-most lopsided presidential election in the history of the United States in terms of electoral votes (486 to 52).
 
-President **Lyndon B. Johnson** had come to office less than a year earlier following the [assassination of his predecessor, John F. Kennedy](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/november-22-1963-death-of-the-president) and made the most of Kennedy's popularity. 
+President **Lyndon B. Johnson** had come to office less than a year earlier following the [assassination of his predecessor, John F. Kennedy](https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/november-22-1963-death-of-the-president) and made the most of JFK's popularity. 
 
 Johnson also successfully painted his opponent, Republican Senator **Barry Goldwater** (AZ), as a right-wing legislator who wanted to abolish the social welfare programs created in the 1930s.
 
