@@ -350,6 +350,12 @@ description:
 
 ## 1976 | Jimmy Carter (D) v. Gerald Ford (R)
 
+The 1976 United States presidential election was held in the aftermath of [Watergate](https://www.britannica.com/event/Watergate-Scandal), one of the biggest political scandals in the country's history. 
+
+It pitted incumbent President **Gerald Ford**, the Republican candidate who assumed office after the resignation of Nixon, against former governor of Georgia, **Jimmy Carter**, the Democratic nominee. 
+
+Ford was saddled with a slow economy and paid a political price for his [pardon of Nixon](https://www.fordlibrarymuseum.gov/nixon-pardon). Carter ran as a Washington outsider and reformer and won a narrow victory.
+
 ### Popular votes by candidate
 
 <FlatUiTable
