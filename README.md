@@ -147,7 +147,13 @@ description:
   }}
  />
 
-## 1932
+## 1932 | Franklin D. Roosevelt (D) v. Herbert C. Hoover (R)
+
+When the 1932 election took place, the Americans were suffering the effects of the [1929 Wall Street Crash](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp) and the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp).
+
+With that reality on the horizon, the popularity of incumbent President **Herbert Hoover** was at a low point as voters felt he couldn't reverse the economic collapse. Democratic candidate **Franklin Delano Roosevelt** used that as leverage, and called Hoover's failure to deal with these problems as a platform for his own election, promising reform in his policy called the New Deal. 
+
+Roosevelt won by a landslide, the first of his four consecutive terms until his death in April, 1945. The 1932 election marked the collapse of the Fourth Party System or Progressive Era. The voters soon were realigned into the Fifth Party System, dominated by Roosevelt's New Deal Coalition.
 
 ### Popular votes by candidate
 
