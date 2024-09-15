@@ -3,7 +3,7 @@ title: Each U.S. presidential election (1900-1996)
 description: 
 ---
 
-## 1900
+## 1900 | William McKinley (R) v. William Jennings Bryan (D)
 
 ### Popular votes by candidate
 
@@ -21,7 +21,7 @@ description:
   }}
  />
 
-## 1904
+## 1904 | Theodore Roosevelt (R) v. Alton B. Parker (D)
 
 ### Popular votes by candidate
 
@@ -39,7 +39,7 @@ description:
   }}
  />
 
-## 1908
+## 1908 | William Howard Taft (R) v. William Jennings Bryan (D)
 
 ### Popular votes by candidate
 
@@ -57,7 +57,7 @@ description:
   }}
  />
 
-## 1912
+## 1912 | Woodrow Wilson (D) v. Theodore Roosevelt (P) and William H. Taft (R)
 
 ### Popular votes by candidate
 
@@ -75,7 +75,7 @@ description:
   }}
  />
 
-## 1916
+## 1916 | Woodrow Wilson (D) v. Charles E. Hughes (R)
 
 ### Popular votes by candidate
 
@@ -93,7 +93,7 @@ description:
   }}
  />
 
-## 1920
+## 1920 | Warren G. Harding (R) v. James M. Cox (D)
 
 ### Popular votes by candidate
 
