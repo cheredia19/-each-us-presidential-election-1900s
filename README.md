@@ -165,7 +165,13 @@ description:
   }}
  />
 
-## 1936
+## 1936 | Franklin D. Roosevelt (D) v. Alfred M. Landon (R)
+
+The United States presidential election of 1936 was the most lopsided presidential election in favor of the Democratic Party in the history of the United States if electoral votes are taken into account. In terms of the popular vote, it was the third biggest victory since the election of 1820. 
+
+Incumbent President **Franklin D. Roosevelt** was still working to push the provisions of his [New Deal economic policy](https://www.britannica.com/event/New-Deal) through Congress and the courts. However, the New Deal policies he had already enacted, such as Social Security and unemployment benefits, were popular among most Americans. 
+
+FDR's Republican opponent was **Alfred M. **Landon, a political moderate. Although some political pundits predicted a close race, Roosevelt won by the greatest electoral vote margin since the beginning of the current two-party system in the 1850s. Roosevelt carried every state except Maine and Vermont, which provided eight electoral votes for Landon.
 
 ### Popular votes by candidate
 
