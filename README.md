@@ -371,6 +371,7 @@ Ford was saddled with a slow economy and paid a political price for his [pardon 
     url: '1976_elec_pop.csv'
   }}
  />
+**Ford won Washington. However one elector cast a vote for Ronald Reagan*
 
 ## 1980 | Ronald Reagan (R) v. Jimmy Carter (D)
 
