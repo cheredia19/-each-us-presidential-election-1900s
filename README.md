@@ -274,7 +274,13 @@ description:
  />
  **One elector from Alabama voted for Walter Jones (D)*
  
-## 1960
+## 1960 | John F. Kennedy (D) v. Richard M. Nixon (R)
+
+The election of 1960 marked the end of Dwight D. Eisenhower's two terms as President. Eisenhower's Vice President, **Richard Nixon** earned the Republican nomination, whereas the Democrats nominated Massachusetts Senator **John Fitzgerald Kennedy**.
+
+Kennedy's margin of victory in popular voting was among the closest ever in American history (around 118,5K votes). Virginian Senator **Harry F. Byrd** received 15 electoral votes even though he was not on the ballot. Bird received 14 of his 15 electoral votes from winning slates of unpledged electors in Mississippi (8), Alabama (6), and Oklahoma (1).
+
+JFK became the first catholic and the second youngest person (43) ever elected President of the United States (Theodore Roosevelt was 42 in 1901 when he assumed office).
 
 ### Popular votes by candidate
 
@@ -291,7 +297,7 @@ description:
     url: '1960_elec_pop.csv'
   }}
  />
- **Harry F. Byrd (D Va.), received 16 electoral votes from unpledged electors: 6 in Alabama; 8 in Mississippi; and 1 in Oklahoma*
+ **Harry F. Byrd (D Va.), received 15 electoral votes from unpledged electors: 6 in Alabama; 8 in Mississippi; and 1 in Oklahoma*
 
 ## 1964 | Lyndon B. Johnson (D) v. Barry Goldwater (R)
 
