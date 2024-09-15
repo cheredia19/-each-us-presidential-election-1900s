@@ -241,7 +241,7 @@ description:
 
 The 1952 United States presidential election took place when Cold War tension between the United States and the Soviet Union was escalating, and weariness erupting among the Americans after two years of bloody stalemate in the Korean War.
 
-Incumbent President Harry S. Truman decided not to run despite being specifically exempted from the terms of the 22nd Amendment, so the Democratic Party instead nominated Illinois Governor **Adlai Stevenson**. The Republican Party countered with the war hero General **Dwight D. Eisenhower** and won comfortably, ending 20 consecutive years of Democratic control of the White House.
+Incumbent President Harry S. Truman [decided not to run despite being specifically exempted from the terms of the 22nd Amendment](https://www.politico.com/story/2019/03/29/truman-declines-to-seek-another-term-march-29-1952-1238358), so the Democratic Party instead nominated Illinois Governor **Adlai Stevenson**. The Republican Party countered with the war hero General **Dwight D. Eisenhower** and won comfortably, ending 20 consecutive years of Democratic control of the White House.
 
 ### Popular votes by candidate
 
