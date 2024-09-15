@@ -95,6 +95,18 @@ description:
 
 ## 1920 | Warren G. Harding (R) v. James M. Cox (D)
 
+Prospects for the Republican Party in the 1920 presidential election were favorable. The aftermath of World War I and the hostile reaction to Woodrow Wilson, the Democratic incumbent President, paved the way for the GOP candidate, **William Harding**, to get a comfortable victory.
+
+The wartime boom had collapsed. Politicians argued over peace treaties and the question of America's entry into the League of Nations. There were wars and revolutions outside the United States. 
+
+At home, several strikes in meatpacking and steel were held, while large race riots took place in Chicago and other cities. Terrorist attacks on Wall Street produced fears of radicals and terrorists.
+
+On the Democratic side, President Wilson wanted a third term despite his [poor health](https://lib.arizona.edu/hsl/materials/collections/secret-illness/wilson) and declining public appeal. Party regulars, however, refused to accede to the president's wishes and succeeded in garnering the 1920 nomination for an outsider, Ohio Governor **James Cox**.
+
+Harding defeated Cox with 404 of the 531 electoral votes in dispute and 60.3% of the popular vote.
+
+The election in 1920 was noteworthy in two other respects. For the first time in American history, election results were available to the public by radio. KDKA in Pittsburgh received polling information by telegraph and passed the information along to listeners in the eastern part of the country. This election also marked the first time women voted in a federal election, following the ratification of the [19th Amendment](https://constitution.congress.gov/constitution/amendment-19/) in August of that year.
+
 ### Popular votes by candidate
 
 <FlatUiTable
