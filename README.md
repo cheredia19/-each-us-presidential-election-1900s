@@ -113,6 +113,14 @@ description:
 
 ## 1924 | Calvin Coolidge (R) v. John W. Davis (D)
 
+Incumbent President **Calvin Coolidge** won the 1924 presidential election. The Republican became head of state in 1923 following the death of the then-president, Warren G. Harding. 
+
+Coolidge was given credit for a booming economy at home and no visible crises abroad. In addition, he got help from a split within the Democratic Party. 
+
+The regular Democrat candidate was **John W. Davis**, a former congressman and diplomat from West Virginia. Since Davis was a conservative, many liberal Democrats backed the third-party campaign of Wisconsin Senator **Robert M. LaFollette, Sr.**, who ran as the candidate of the Progressive Party. 
+
+The 1924 election was the first in which all American Indians were citizens and thus allowed to vote. Coolidge's 25.2-point victory margin in the popular vote is one of the largest ever.
+
 ### Popular votes by candidate
 
 <FlatUiTable
