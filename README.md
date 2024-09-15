@@ -237,7 +237,7 @@ description:
   }}
  />
 
-## 1952
+## 1952 | Dwight D. Eisenhower (R) v. Adlai Stevenson (D)
 
 ### Popular votes by candidate
 
@@ -255,7 +255,7 @@ description:
   }}
  />
 
-## 1956
+## 1956 | Dwight D. Eisenhower (R) v. Adlai Stevenson (D)
 
 ### Popular votes by candidate
 
