@@ -201,7 +201,7 @@ description:
   }}
  />
 
-## 1944
+## 1944 | Franklin D. Roosevelt (D) v. Thomas E. Dewey (R)
 
 ### Popular votes by candidate
 
