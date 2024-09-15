@@ -329,7 +329,11 @@ description:
   }}
  />
 
-## 1972
+## 1972 | Richard Nixon (R) v. George McGovern (D)
+
+The 1972 election was held on November 7. The Democratic Party's nomination was eventually won by Senator **George McGovern**, who ran an anti-war campaign against the Republican candidate for reelection **Richard Nixon** but was handicapped by his outsider status and the [firing of his running mate Thomas Eagleton](https://www.npr.org/2012/08/04/157670201/the-thomas-eagleton-affair-haunts-candidates-today).
+
+Shielded by a good economy and his successes in foreign affairs (especially ending American involvement in Vietnam and establishing relations with China), Nixon easily won the election with a difference of 23.2 percentage points (almost 18 million ballots) in the popular vote, the widest margin of any U.S. presidential election. The incumbent collected the electoral votes in all states except Massachusetts (14) and the District of Columbia (3).
 
 ### Popular votes by candidate
 
