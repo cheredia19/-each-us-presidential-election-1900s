@@ -257,6 +257,12 @@ description:
 
 ## 1956 | Dwight D. Eisenhower (R) v. Adlai Stevenson (D)
 
+The election of 1956 ended up a rematch between the presidential candidates of 1952, as **Dwight D. Eisenhower** ran for re-election, and his opponent was Democrat **Adlai Stevenson**, whom the Republican had defeated four years earlier.
+
+The big question concerning the GOP nomination was if Eisenhower's health would permit him to run again. [He had suffered a heart attack the previous September](https://www.heart.org/en/news/2024/02/15/the-presidential-heart-attack-that-changed-america) and had been obliged to slow his schedule and take time to recuperate. After learning he was capable of continuing, Eisenhower announced on February 28, 1956, that he would seek a second term.
+
+Stevenson remained popular with a core of liberal Democrats but held no office and had no real base. He (and Eisenhower) largely ignored the civil rights issue. Eisenhower had ended the [Korean War](https://www.eisenhowerlibrary.gov/research/online-documents/korean-war) and the nation was prosperous, so a landslide for the charismatic Eisenhower was never in doubt.
+
 ### Popular votes by candidate
 
 <FlatUiTable
