@@ -293,7 +293,7 @@ description:
  />
  **Harry F. Byrd (D Va.), received 16 electoral votes from unpledged electors: 6 in Alabama; 8 in Mississippi; and 1 in Oklahoma*
 
-## 1964
+## 1964 | Lyndon B. Johnson (D) v. Barry Goldwater (R)
 
 ### Popular votes by candidate
 
