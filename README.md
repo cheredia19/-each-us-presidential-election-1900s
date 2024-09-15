@@ -219,13 +219,21 @@ description:
   }}
  />
 
-## 1948
+## 1948 | Harry S. Truman (D) v. Thomas E. Dewey (R)
+
+The 1948 election is considered by most historians as the greatest election upset in American history. 
+
+Virtually every prediction indicated that incumbent President **Harry S. Truman** would be defeated by Republican **Thomas E. Dewey**. However, Truman embarked on a 31,000-mile train trip across the nation and delivered hundreds of off-the-cuff speeches to crowds. The electorate provided the Democrat nominee with one of the biggest political comeback victories in U.S. history.
+
+Truman's surprise victory was the fifth consecutive win for the Democratic Party in a presidential election. As a result of the 1948 congressional election, the Democrats would regain control of both houses of Congress. 
+
+Truman's election confirmed the Democratic Party's status as the nation's majority party, a status they would retain until 1952.
 
 ### Popular votes by candidate
 
 <FlatUiTable
   data={{
-    url: '1948_pop_vote.csv'
+    url: '1948_pop_ev_votes.csv'
   }}
  />
 
