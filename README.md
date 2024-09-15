@@ -183,7 +183,13 @@ description:
   }}
  />
 
-## 1940
+## 1940 | Franklin D. Roosevelt (D) v. Wendell L. Willkie (R)
+
+The tradition that no United States president serves more than two terms was established by George Washington but was not part of the Constitution. As **Franklin Roosevelt** neared the end of his second term, he began to suggest the need for continuity in a world in crisis despite the U.S. not yet involved in World War II. Democrats agreed and renominated Roosevelt for an unprecedented third term.
+
+The surprise Republican candidate was businessman **Wendell Willkie**, who crusaded against Roosevelt's failure to end the Depression and eagerness for war. 
+
+The GOP nominee conducted an energetic campaign and revived Republican strength in the Midwest and Northeast areas. However, Roosevelt cruised to an easy electoral victory in November. Willkie could take pride in his 22 million popular votes, the greatest number received by a Republican candidate to that date.
 
 ### Popular votes by candidate
 
