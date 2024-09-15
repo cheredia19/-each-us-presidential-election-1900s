@@ -315,7 +315,7 @@ description:
 
 This presidential election took place in a context that included the [assassination of civil rights leader Martin Luther King, Jr.](https://kinginstitute.stanford.edu/assassination-martin-luther-king-jr) and subsequent race riots across the nation, the [assassination of Robert F. Kennedy](https://www.npr.org/2023/06/05/1179430014/robert-kennedy-rfk-assassination-anniversary), widespread demonstrations against the Vietnam War across American university and college campuses, and violent confrontations between police and anti-war protesters at the [1968 Democratic National Convention](https://edition.cnn.com/ALLPOLITICS/1996/conventions/chicago/facts/chicago68/index.shtml).
 
-On November 5, 1968, the Republican candidate, former Vice President **Richard Nixon won** the presidency of the United States over the Democratic nominee, incumbent Vice President **Hubert Humphrey**. 
+On November 5, 1968, the GOP candidate, former Vice President **Richard Nixon won** the presidency of the United States over the Democratic nominee, incumbent Vice President **Hubert Humphrey**. The margin in the popular voting between them was under a million, but the Republican aspirant won in the Electoral College with 301 electoral votes from 31 states.
 
 The election of 1968 was the last that confronted candidates who were Vice Presidents. It was also the most recent election in which a 3rd party nominee won electoral votes (American Independent **George Wallace** - 46).
 
