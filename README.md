@@ -111,7 +111,7 @@ description:
   }}
  />
 
-## 1924
+## 1924 | Calvin Coolidge (R) v. John W. Davis (D)
 
 ### Popular votes by candidate
 
@@ -131,7 +131,11 @@ description:
 
 ## 1928 | Herbert C. Hoover (R) v. Alfred E. Smith (D)
 
+In August 1927, incumbent President Calvin Coolidge announced he would not run for the presidency in the 1928 election. That statement opened the door to GOP candidate **Herbert Hoover**, the current secretary of commerce and possessor of a long record of humanitarian service. 
 
+Hoover faced Democrat **Alfred Smith**. The Republicans were identified with the booming economy of the 1920s. Smith, a Roman Catholic, suffered politically from anti-Catholic prejudice, his anti-prohibitionist stance, and the legacy of corruption of the [Tammany Hall machine](https://www.britannica.com/topic/Tammany-Hall) with which he was associated.
+
+Hoover won a landslide victory on pledges to continue the economic boom of the Coolidge years. Smith won the electoral votes only of the traditionally Democratic Southern United States and two New England States. Hoover even triumphed in Smith's home state of New York by a narrow margin.
 
 ### Popular votes by candidate
 
