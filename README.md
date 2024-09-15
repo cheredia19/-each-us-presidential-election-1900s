@@ -203,6 +203,10 @@ description:
 
 ## 1944 | Franklin D. Roosevelt (D) v. Thomas E. Dewey (R)
 
+The 1944 U.S. presidential election was held while the country was involved in World War II. President **Franklin D. Roosevelt** had been in office longer than any other head of state. Still, he sought another term as the Democratic candidate. His Republican opponent in 1944 was New York Governor Thomas E. Dewey, who ran an energetic campaign but was not enough. 
+
+FDR, who remained popular during the war years, was re-elected, receiving 432 electoral votes to 99 for Dewey, although the popular vote margin was closer. The incumbent President achieved a record fourth term, something nobody else has replicated thanks to the [22nd Amendment](https://constitutioncenter.org/the-constitution/amendments/amendment-xxii), which was approved on March 21, 1947, and ratified by the required number of states on February 27, 1951.
+
 ### Popular votes by candidate
 
 <FlatUiTable
