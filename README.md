@@ -223,7 +223,7 @@ description:
 
 The 1948 election is considered by most historians as the greatest election upset in American history. 
 
-Virtually every prediction indicated that incumbent President **Harry S. Truman** would be defeated by Republican **Thomas E. Dewey**. However, Truman embarked on a 31,000-mile train trip across the nation and delivered hundreds of off-the-cuff speeches to crowds. The electorate provided the Democrat nominee with one of the biggest political comeback victories in U.S. history.
+Virtually every prediction indicated that incumbent President **Harry S. Truman**, who took office after the [death of Franklin Roosevelt in 1945](https://millercenter.org/president/fdroosevelt/death-of-the-president), would be defeated by Republican **Thomas E. Dewey**. However, Truman embarked on a 31,000-mile train trip across the nation and delivered hundreds of off-the-cuff speeches to crowds. The electorate provided the Democrat nominee with one of the biggest political comeback victories in U.S. history.
 
 Truman's surprise victory was the fifth consecutive win for the Democratic Party in a presidential election. As a result of the 1948 congressional election, the Democrats would regain control of both houses of Congress. 
 
