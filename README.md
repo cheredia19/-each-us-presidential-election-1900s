@@ -129,7 +129,9 @@ description:
   }}
  />
 
-## 1928
+## 1928 | Herbert C. Hoover (R) v. Alfred E. Smith (D)
+
+
 
 ### Popular votes by candidate
 
