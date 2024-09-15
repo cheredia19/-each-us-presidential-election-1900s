@@ -311,7 +311,9 @@ description:
   }}
  />
  
-## 1968
+## 1968 | Richard Nixon (R) v. Hubert Humphrey (D)
+
+
 
 ### Popular votes by candidate
 
