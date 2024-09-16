@@ -77,6 +77,16 @@ description:
 
 ## 1916 | Woodrow Wilson (D) v. Charles E. Hughes (R)
 
+The 1916 U.S. presidential election took place while Europe was in the middle of World War I, a conflict in which the country [remained neutral until 1917](https://history.state.gov/milestones/1914-1920/wwi).
+
+The contest faced incumbent President **Woodrow Wilson**, the Democratic candidate, against Supreme Court Justice **Charles Evans Hughes**, the GOP nominee. 
+
+Despite their sympathy with the allied forces fighting in Europe, most American voters wanted to avoid involvement in the war and preferred to continue a policy of neutrality. 
+
+The election was decided by a [count in California](https://en.wikipedia.org/wiki/1916_United_States_presidential_election_in_California) that gave the state's electoral votes (13) to Wilson and ensured his re-election.
+
+Wilson defeated Hughes by a narrow margin. Ironically, the Democrat's campaign motto was "He kept us out of war."
+
 ### Popular votes by candidate
 
 <FlatUiTable
