@@ -23,6 +23,18 @@ description:
 
 ## 1904 | Theodore Roosevelt (R) v. Alton B. Parker (D)
 
+Theodore Roosevelt took office after the [assassination of William McKinley](https://guides.loc.gov/chronicling-america-william-mckinley-assassination) in September 1901. 
+
+As an incumbent President, Roosevelt became the odds-on favorite for the GOP nomination in 1904. However, disgruntled Republicans voiced their view that Roosevelt's actions were too liberal. They favored instead the designation of Mark Hanna. His death in 1904 probably averted a heated contest over what direction the Republican Party would take. With the contender gone, the convention nominated Roosevelt by acclamation. 
+
+The Democratic Party passed over William Jennings Bryan (who had lost two consecutive elections against McKinley) and nominated **Alton B. Parker**, a conservative Appeals Court judge in New York. 
+
+Roosevelt easily won a term of his own, thus becoming the first *accidental* President to do so. The Republican nominee won 56.4% of the popular vote. His 18.8 percentage-point margin concerning his closest contender was the biggest recorded between the elections of 1820 and 1920. 
+
+Roosevelt won the election by more than 2.5 million popular votes. No earlier president had won by so large a margin. Following his triumph, Roosevelt announced he would not seek a third term. 
+
+The 1904 election witnessed a strong showing by [Eugene V. Debs](https://www.britannica.com/biography/Eugene-V-Debs) and the Socialists and a notable presence by the [Prohibition Party](https://www.britannica.com/topic/Prohibition-Party). The [Populists](https://www.georgiaencyclopedia.org/articles/history-archaeology/populist-party/) were in steep decline and would disappear from the national scene after the next presidential election.
+
 ### Popular votes by candidate
 
 <FlatUiTable
