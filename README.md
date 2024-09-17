@@ -53,7 +53,7 @@ Wilson defeated Roosevelt and Taft in the general election with a lopsided victo
 
 The Republican split aided his election. The sum of the popular votes for Taft and Roosevelt would have given the presidency to the GOP.
 
-Woodrow Wilson became the only elected President of the Democratic Party between 1892 and 1932 and the second of only two Democrats to be elected President between 1860 and 1932. 
+Woodrow Wilson became the only elected President of the Democratic Party between 1892 and 1932 and the second of only two Democrats to be elected President between 1860 and 1932. The other one was Grover Cleveland.
 
 The 1932 election was the last in which a candidate who was not a Republican or Democrat came runner-up in either the popular vote or the Electoral College and the first where the 48 states of the continental United States participated.
 
