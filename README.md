@@ -41,6 +41,12 @@ description:
 
 ## 1908 | William Howard Taft (R) v. William Jennings Bryan (D)
 
+Popular incumbent President Theodore Roosevelt, honoring a promise not to seek a third term, persuaded the Republican Party to nominate **William Howard Taft**, his close friend and Secretary of War, to become his successor. 
+
+Having badly lost the 1904 election with a conservative candidate, the Democratic Party turned to two-time nominee **William Jennings Bryan**, who was defeated in 1896 and 1900 by Republican William McKinley. Despite his two previous defeats, Bryan remained extremely popular among the more liberal and populist elements of the Democratic Party. 
+
+Despite running a vigorous campaign against the nation's business elite, Bryan suffered the worst loss in his three presidential campaigns. Taft won comfortably, with 51.6% of the popular vote and 321 electoral votes out of 483.
+
 ### Popular votes by candidate
 
 <FlatUiTable
