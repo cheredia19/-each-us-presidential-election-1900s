@@ -41,22 +41,6 @@ description:
 
 ## 1908 | William Howard Taft (R) v. William Jennings Bryan (D)
 
-Three candidates starred in the 1912 U.S. presidential election. The conservative wing of the Republican Party renominated incumbent President **William Howard Taft**.
-
-After former President **Theodore Roosevelt** failed to receive the GOP nomination, he called his convention and created the [Progressive Party](https://www.britannica.com/topic/Bull-Moose-Party), which nominated Roosevelt and ran candidates for other offices in big states. 
-
-Democrat **Woodrow Wilson** was nominated on the 46th ballot of a contentious convention, thanks to the support of William Jennings Bryan, the three-time Democratic presidential candidate who still had a large and loyal following in 1912.
-
-The election brought a discussion about the country's future. The New Nationalism proposed by Roosevelt called for an interventionist government with robust regulatory powers, while Wilson's New Freedom advocated antimonopoly policies and a return to small businesses.
-
-Wilson defeated Roosevelt and Taft in the general election with a lopsided victory in the Electoral College. The Democrat nominee won 41.8% of the popular vote. His nearest rival (Roosevelt) won 27.4%. 
-
-The Republican split aided his election. The sum of the popular votes for Taft and Roosevelt would have given the presidency to the GOP.
-
-Woodrow Wilson became the only elected President of the Democratic Party between 1892 and 1932 and the second of only two Democrats to be elected President between 1860 and 1932. The other one was Grover Cleveland.
-
-The 1932 election was the last in which a candidate who was not a Republican or Democrat came runner-up in either the popular vote or the Electoral College and the first where the 48 states of the continental United States participated.
-
 ### Popular votes by candidate
 
 <FlatUiTable
@@ -74,6 +58,22 @@ The 1932 election was the last in which a candidate who was not a Republican or 
  />
 
 ## 1912 | Woodrow Wilson (D) v. Theodore Roosevelt (P) and William H. Taft (R)
+
+Three candidates starred in the 1912 U.S. presidential election. The conservative wing of the Republican Party renominated incumbent President **William Howard Taft**.
+
+After former President **Theodore Roosevelt** failed to receive the GOP nomination, he called his convention and created the [Progressive Party](https://www.britannica.com/topic/Bull-Moose-Party), which nominated Roosevelt and ran candidates for other offices in big states. 
+
+Democrat **Woodrow Wilson** was nominated on the 46th ballot of a contentious convention, thanks to the support of William Jennings Bryan, the three-time Democratic presidential candidate who still had a large and loyal following in 1912.
+
+The election brought a discussion about the country's future. The New Nationalism proposed by Roosevelt called for an interventionist government with robust regulatory powers, while Wilson's New Freedom advocated antimonopoly policies and a return to small businesses.
+
+Wilson defeated Roosevelt and Taft in the general election with a lopsided victory in the Electoral College. The Democrat nominee won 41.8% of the popular vote. His nearest rival (Roosevelt) won 27.4%. 
+
+The Republican split aided his election. The sum of the popular votes for Taft and Roosevelt would have given the presidency to the GOP.
+
+Woodrow Wilson became the only elected President of the Democratic Party between 1892 and 1932 and the second of only two Democrats to be elected President between 1860 and 1932. The other one was Grover Cleveland.
+
+The 1912 election was the last in which a candidate who was not a Republican or Democrat came runner-up in either the popular vote or the Electoral College and the first where the 48 states of the continental United States participated.
 
 ### Popular votes by candidate
 
