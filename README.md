@@ -5,6 +5,12 @@ description:
 
 ## 1900 | William McKinley (R) v. William Jennings Bryan (D)
 
+The 1900 United States presidential election was a rematch of the 1896 race between Republican President **William McKinley** and **William Jennings Bryan**, his Democratic challenger. 
+
+The return of economic prosperity and recent victory in the [Spanish-American War](https://history.state.gov/milestones/1866-1898/spanish-american-war) helped the incumbent McKinley to secure a convincing win. 
+
+He chose New York Governor Theodore Roosevelt as his running mate because Vice President Garret Hobart had died from heart failure in 1899. McKinley himself would be killed a year and a half after taking office.
+
 ### Popular votes by candidate
 
 <FlatUiTable
