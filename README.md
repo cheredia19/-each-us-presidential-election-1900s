@@ -643,7 +643,7 @@ On election day, November 5, Clinton and Gore comfortably won the popular and el
 ##### Data sources
 
 - [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
-- [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the 	University of California Santa Barbara
+- [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the University of California Santa Barbara
 
 ##### You may be interested in
 
