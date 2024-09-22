@@ -647,4 +647,6 @@ On election day, November 5, Clinton and Gore comfortably won the popular and el
 
 ##### You may be interested in
 
+- [Facts and figures of the U.S. presidential elections](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures)
+- [Each U.S. presidential election (1800-1896)](https://datahub.io/@cheredia19/us-presidential-elections-1800s)
 - [Each U.S. presidential election (2000-2020)](https://datahub.io/@cheredia19/us-presidential-elections-2000s)
