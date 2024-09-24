@@ -1,7 +1,17 @@
 ---
 title: Each U.S. presidential election (1900-1996)
-description: 
+description: From McKinley to Clinton, the context that surrounded every American presidential race
 ---
+
+The United States presidential elections from 1900 to 1996 reflect a century of transformative challenges and shifts in the political landscape. This period saw the rise of the Progressive movement, as candidates grappled with issues such as labor rights, women's suffrage, and the fight against corruption. 
+
+The aftermath of World War I and the Great Depression brought foreign policy and economic stability to the forefront, particularly during Franklin D. Roosevelt's groundbreaking New Deal. 
+
+The post-war era introduced the Cold War, with candidates needing to address national security, civil rights movements, and anti-communism. The 1960s and 70s saw the impact of social upheaval, including the Vietnam War and the fight for racial equality, culminating in pivotal elections that reflected a nation divided. 
+
+By the 1990s, the focus shifted toward globalization and technological advancement, alongside new debates over welfare and healthcare. 
+
+This article delves into the United States elections of this dynamic century, illustrating how each presidential race not only responded to immediate challenges but also shaped the future of American politics and society.
 
 ## 1900 | William McKinley (R) v. William Jennings Bryan (D)
 
